@@ -1,4 +1,4 @@
-# Ahmad Soboh, 300294253
+# Abdu-rahman barkhad, 300296318
 This project develops a simple calculator utilizing Test-Driven Development (TDD). The calculator supports basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 # Files
