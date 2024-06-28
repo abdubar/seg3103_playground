@@ -6,4 +6,5 @@
 
 ![image](https://github.com/abdubar/seg3103_playground/assets/144919862/961f6885-392c-41e0-956a-2ace471fb006)
 
-<img width="1440" alt="Screenshot 2024-06-25 at 11 24 52 PM" src="https://github.com/ahmadsobohhh/seg3103_playground/assets/115435738/50c6754f-4403-4fcd-befc-c14d950efebb">
+![image](https://github.com/abdubar/seg3103_playground/assets/144919862/518915ab-7669-4a62-8dd2-f976778a6077)
+
