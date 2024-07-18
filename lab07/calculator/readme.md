@@ -1,3 +1,4 @@
+I've decided to Fix the bugs Abdu-Rahman Barkhad 300296318
 <img width="386" alt="348011954-78bab28c-fb30-46ce-9190-3b8b5b0e7517" src="https://github.com/user-attachments/assets/79f72173-aaff-4f1e-bf1f-d817e7cb369f">
 <img width="486" alt="348011917-71b673f3-9095-43fa-8405-f04a9cfc03c9" src="https://github.com/user-attachments/assets/51d20844-0d08-4bea-979a-37f5e6f5239d">
 <img width="486" alt="348011917-71b673f3-9095-43fa-8405-f04a9cfc03c9 (1)" src="https://github.com/user-attachments/assets/0cd05f94-080a-444c-b0f7-1d6e281f2c7e">
