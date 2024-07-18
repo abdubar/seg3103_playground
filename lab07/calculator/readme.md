@@ -1,5 +1,5 @@
 I've decided to Fix the bugs Abdu-Rahman Barkhad 300296318
-<img width="386" alt="348011954-78bab28c-fb30-46ce-9190-3b8b5b0e7517" src="https://github.com/user-attachments/assets/79f72173-aaff-4f1e-bf1f-d817e7cb369f">
+
 <img width="486" alt="348011917-71b673f3-9095-43fa-8405-f04a9cfc03c9" src="https://github.com/user-attachments/assets/51d20844-0d08-4bea-979a-37f5e6f5239d">
 <img width="486" alt="348011917-71b673f3-9095-43fa-8405-f04a9cfc03c9 (1)" src="https://github.com/user-attachments/assets/0cd05f94-080a-444c-b0f7-1d6e281f2c7e">
 <img width="593" alt="348011846-e0902696-6b90-4d35-bb05-e1a1e9c37907" src="https://github.com/user-attachments/assets/55ea9bc9-cffd-4361-b43e-b872515b2efc">
@@ -19,4 +19,3 @@ I've decided to Fix the bugs Abdu-Rahman Barkhad 300296318
 <img width="351" alt="348011213-aae3e2f6-0ec1-4abc-bdc5-4e63c64615a6" src="https://github.com/user-attachments/assets/0126e4c7-a248-4439-9341-8b898ca6b0dd">
 <img width="387" alt="348011177-9b25227f-7a11-4279-bde7-77124dccdb77" src="https://github.com/user-attachments/assets/a69cf9e9-e508-4a9e-b43f-73c61595e49c">
 <img width="756" alt="348011126-58a92498-4541-4875-9b37-c7018cf01ab5" src="https://github.com/user-attachments/assets/655d18c4-dfab-436a-831c-a2e6a347149d">
-<img width="372" alt="348011081-05ec8162-7eb7-4845-bbfc-09f9f45622c9" src="https://github.com/user-attachments/assets/c6bc65b2-22fb-4835-8d54-d7269574530b">
